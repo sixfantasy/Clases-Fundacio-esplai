@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap');
+
+body {
+    background-color: aqua;
+    box-sizing: content-box;
+
+}
+h1 {
+  font-family: "Protest Riot", sans-serif;
+}
+
+img:hover {
+    border: 2px solid orange;
+
+}
